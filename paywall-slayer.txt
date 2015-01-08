@@ -1,0 +1,10 @@
+! Homepage: http://github.com/ThoolooExpress/paywall-slayer
+! Title: Paywall Slayer
+! Expires: 2 days
+! Version: 0.1
+
+!!!! Press Plus !!!!
+!! Used on multiple sites, most notably theonion.com
+
+! main Press Plus script
+||s.ppjol.net/lightbox/pp*.js
